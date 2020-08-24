@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Website under Construction
+layout: page
+title: Home
+permalink: /home/
 ---
 
 
