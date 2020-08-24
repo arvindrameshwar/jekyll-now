@@ -12,7 +12,7 @@ permalink: /pubs
 
 ### Conference
 
-1. V. Arvind Rameshwar, Aryabhatt M. Reghu, and N. Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), (Kapolei, USA), Oct. 2020. 
+1. V. Arvind Rameshwar, Aryabhatt M. Reghu, and Navin Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), (Kapolei, USA), Oct. 2020. 
 
 2. V. Arvind Rameshwar and Navin Kashyap, “**Computable lower bounds for capacities of input-driven finite-state channels**,” in Proc. 2020 International Symposium on Information Theory (ISIT 2020), Los Angeles, California, USA, Jun. 21--26, 2020. [[arXiv full version](https://arxiv.org/abs/2001.03423)]
 
