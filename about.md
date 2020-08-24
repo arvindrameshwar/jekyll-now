@@ -6,11 +6,11 @@ permalink: /pubs
 
 **Disclaimer**: Copyright belongs to the publisher in the case of published articles. Copyright belongs to the author/authors in all other cases.
 
-###Journal
+### Journal
 
 1. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal and popular matchings**,” J. Comb. Optim.,vol. 37, no. 2, pp. 523–545, 2019.
 
-###Conference
+### Conference
 
 1. V. Arvind Rameshwar, Aryabhatt M. Reghu, and N. Kashyap, “**On the capacity of the flash memory channel with feedback**,” in 2020 International Symposium on Information Theory and its Applications (ISITA2020), (Kapolei, USA), Oct. 2020.
 
