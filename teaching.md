@@ -8,4 +8,4 @@ permalink: /teaching
 1. [Random Processes, 2020](https://ece.iisc.ac.in/~parimal/random.html) (October '20--January '21)
 
 ### Outside IISc
-1. Introduction to Coding Theory, IIIT-Hyderabad (January '21--February '21)
+1. Introduction to Coding Theory, IIIT-Hyderabad (January '21--February '21) (Part of the teaching commitments of the PMRF)
