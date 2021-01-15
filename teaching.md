@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching
 ---
+The following are courses I have been a teaching assistant for, during my graduate studies.
 
 ### Within IISc
 1. [Random Processes, 2020](https://ece.iisc.ac.in/~parimal/random.html) (October '20--January '21)
