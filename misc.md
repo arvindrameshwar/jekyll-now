@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscallaneous
+title: Miscellaneous
 permalink: /misc
 ---
 1. I maintain (rather irregularly) a [blog](https://paperpenandfilm.wordpress.com/) on the books I read and the films I watch.
