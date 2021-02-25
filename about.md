@@ -23,3 +23,7 @@ permalink: /pubs
 5. D. Shivakrishna, V. Arvind Rameshwar, Vadlamani Lalitha, and Birenjith Sasidharan, “**On maximally recoverable codes for product topologies**,” in 2018 Twenty Fourth National Conference on Communications (NCC), pp. 1--6, Feb. 2018. [[arXiv](https://arxiv.org/abs/1801.03379)][[IEEE Xplore](https://ieeexplore.ieee.org/document/8599965)]
 
 6. Prajakta Nimbhorkar and V. Arvind Rameshwar, “**Dynamic rank-maximal matchings**,” in Computing and Combinatorics -- 23<sup>rd</sup> International Conference, COCOON 2017, Hong Kong, China, August 3--5, 2017, Proceedings (Y. Cao and J. Chen, eds.), vol. 10392 of Lecture Notes in Computer Science, pp. 433--444, Springer, 2017. [[arXiv full version](https://arxiv.org/abs/1704.00899)]
+
+### Preprints
+
+1. V. Arvind Rameshwar and N. Kashyap, “**Bounds on the Feedback Capacity of the $(d,\infty)$-RLL Input-Constrained Binary Erasure Channel**,” arXiv eprints, p. arXiv:2101.08638, Jan. 2021. [[arXiv](https://arxiv.org/abs/2101.08638)]
