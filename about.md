@@ -26,4 +26,4 @@ permalink: /pubs
 
 ### Preprints
 
-1. V. Arvind Rameshwar and N. Kashyap, “**Bounds on the Feedback Capacity of the $(d,\infty)$-RLL Input-Constrained Binary Erasure Channel**,” arXiv eprints, p. arXiv:2101.08638, Jan. 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)]
+1. V. Arvind Rameshwar and Navin Kashyap, “**Bounds on the Feedback Capacity of the $(d,\infty)$-RLL Input-Constrained Binary Erasure Channel**,” arXiv eprints, p. arXiv:2101.08638, Jan. 2021. [[arXiv full version](https://arxiv.org/abs/2101.08638)]
